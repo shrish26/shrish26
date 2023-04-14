@@ -1,5 +1,7 @@
+[![MasterHead](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)](https://shrish26.io)
 # 💫 About Me:
 Hola , I'm Shrish Nadgir 🔭 I’m currently working on my skills on MERN Stack Development<br>👯 I’m currently open to work an intern <br>🌱 I’m currently learning Python and computer vision for upgrading my skills<br>⚡ Fun fact : I like Coffee ☕ 
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shreesh.nadgir.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/shreesh_g._n?utm_medium=copy_link) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shrish-nadgir-887a4a16a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@shrishnadgir26) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/robet_me) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ShreeshNadgir) 
