@@ -1,6 +1,10 @@
 [![MasterHead](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)](https://shrish26.io)
 # 💫 About Me:
-Hola , I'm Shrish Nadgir 🔭 I’m currently working on my skills on MERN Stack Development<br>👯 I’m currently open to work an intern <br>🌱 I’m currently learning Python and computer vision for upgrading my skills<br>⚡ Fun fact : I like Coffee ☕ 
+Hola , I'm Shrish Nadgir<br>
+A Developer Enthusiast <br>
+🔭 I have learnt MERN Stack Development <br>👯 I’m currently open to work an intern <br>🌱 I’m currently learning Python and computer vision for upgrading my skills<br>
+💫I have worked with Android Studio for some projects<br>
+⚡ Fun fact : I like Coffee ☕ 
 
 
 ## 🌐 Socials:
